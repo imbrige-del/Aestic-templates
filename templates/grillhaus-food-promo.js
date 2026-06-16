@@ -112,9 +112,8 @@ export default {
     .gh-brand-name {
       display: block;
       font-family: 'Barlow Condensed', sans-serif;
-      font-weight: 900;
+      font-weight: 600;
       font-size: clamp(11px, 3cqi, 18px);
-      letter-spacing: 0.28em;
       text-transform: uppercase;
       color: #fff;
       line-height: 1;
